@@ -1,7 +1,7 @@
 language: java
-os: OSX
+os: FreeBSD
 jdk:
   - openjdk17
   
 script:
-  - echo 'xx'
+  - echo 'FreeBSD'

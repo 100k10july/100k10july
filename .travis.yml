@@ -9,4 +9,4 @@ vm:
   size: [large]
   
 script:
-  - echo 'test'
+  - echo 'xx'
